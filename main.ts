@@ -1,1 +1,1 @@
-scene.setBackgroundColor(4)
+scene.setBackgroundColor(2)
